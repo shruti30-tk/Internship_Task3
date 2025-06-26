@@ -19,6 +19,7 @@
 4. **Launched the scan**, which took ~30–40 minutes.
 5. **Reviewed the scan report**, focusing on high and critical vulnerabilities.
 6. **Captured screenshots** and noted CVE IDs for key findings.
+   
    ![Task 3](https://github.com/user-attachments/assets/8097c21d-2c0b-45b3-b900-b482abb66ef7)
 
 ![Task 3 2](https://github.com/user-attachments/assets/9a53d4c3-2914-4d05-a245-14f81a405df4)
